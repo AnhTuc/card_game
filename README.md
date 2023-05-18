@@ -8,4 +8,4 @@ To run card game with docker image
 
 Pull image: <code> $docker pull anhtuc/card_game:latest </code>
 
-Run with interactive shell: <code> docker run -it card_game:latest</code>
+Run with interactive shell: <code> $docker run -it card_game:latest</code>
